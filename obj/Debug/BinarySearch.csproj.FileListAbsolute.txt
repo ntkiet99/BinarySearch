@@ -1,0 +1,7 @@
+C:\Users\ntkie\source\repos\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\ntkie\source\repos\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\ntkie\source\repos\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\ntkie\source\repos\BinarySearch\obj\Debug\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\ntkie\source\repos\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\ntkie\source\repos\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\ntkie\source\repos\BinarySearch\obj\Debug\BinarySearch.pdb
